@@ -1,4 +1,4 @@
-# Ex03 Time Table
+# Ex 03 Time Table
 
 ## Name: M.Gokul
 ## Reg No: 24000042
