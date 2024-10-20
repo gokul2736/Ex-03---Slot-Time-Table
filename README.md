@@ -142,8 +142,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![tym tbl](https://github.com/user-attachments/assets/fcd8aea4-fddd-401d-ab9e-11a98d826eb4)
-
+![tym tbl](https://github.com/user-attachments/assets/87cfe9af-fc2f-4d0d-a806-e432d296a3a5)
 
 
 ## RESULT
