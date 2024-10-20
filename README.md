@@ -3,7 +3,7 @@
 ## Name: M.Gokul
 ## Reg No: 24000042
 
-## AIM
+## AIM:
 To write a html webpage page to display your slot timetable.
 
 ## ALGORITHM
@@ -142,7 +142,8 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![Screenshot 2024-10-18 000018](https://github.com/user-attachments/assets/07256148-728b-4d48-b3bd-4f54963b1eb8)
+![tym tbl](https://github.com/user-attachments/assets/fcd8aea4-fddd-401d-ab9e-11a98d826eb4)
+
 
 
 ## RESULT
